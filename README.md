@@ -12,7 +12,7 @@ This solution eliminates paperwork, automates verification, and creates an **imm
 
 ## 💡 Why build this?
 
-### 1. Eliminates Fraudulent Claims
+### 1. Eliminates Fraudulent Claims 
 
 Traditional warranty systems rely on invoices or paper-based proofs, which can be forged or manipulated. On-chain records ensure that claims are valid only during the defined warranty period.
 

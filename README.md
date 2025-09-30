@@ -8,7 +8,7 @@ Manufacturers or sellers can register products on-chain, linking them with their
 
 This solution eliminates paperwork, automates verification, and creates an **immutable record** of warranty coverage.
 
----   
+---    
   
 ## 💡 Why build this?   
 

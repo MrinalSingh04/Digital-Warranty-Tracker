@@ -10,7 +10,7 @@ This solution eliminates paperwork, automates verification, and creates an **imm
 
 ---      
     
-## 💡 Why build this?   
+## 💡 Why build this?    
  
 ### 1. Eliminates Fraudulent Claims 
 
